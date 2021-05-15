@@ -14,7 +14,7 @@
 		<div class="site-info">
 			&copy; <?php echo date("Y") ?> <a href="<?php echo home_url(); ?>" title="<?php bloginfo('name'); ?>"><?php bloginfo('name'); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'hemingway-metro' ), '<a href="https://github.com/ddmboss/hemingway-metro">Hemingway Metro</a>', '<a href="http://ddmbossdesigns.com" rel="designer">ddmboss designs</a>' ); ?>
+			<?php printf( __( 'Theme: %1$s by %2$s.', 'hemingway-metro' ), '<a href="https://github.com/ddmboss/hemingway-metro">Hemingway Metro</a>', '<a href="http://www.ddmbossdesigns.com" rel="designer">ddmboss designs</a>' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
